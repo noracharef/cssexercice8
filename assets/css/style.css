@@ -1,0 +1,67 @@
+#section1 { 
+
+  font-size: bold;
+  background-color: #2574A9;
+  padding: 20px;
+
+   }
+
+#leg1 {
+
+font-weight: bold;  
+background-color: #2574A9;
+
+}
+
+.font1 {
+
+  font-weight: bold;  
+ 
+ }
+
+#section2 { 
+ 
+  font-size: bold;
+  background-color: #9A12B3;
+  padding: 20px;
+
+   }
+
+#leg2 {
+
+font-weight: bold;  
+background-color:#9A12B3;
+
+}
+
+
+.font2 {
+
+  font-weight: bold;  
+ 
+ }
+
+#section3 { 
+ 
+  font-size: medium;
+  background-color:#DB0A5B;
+  padding: 20px;
+
+   }
+
+   .font3 {
+
+    font-weight: bold;  
+   
+   }
+
+#leg3 {
+
+font-weight: bold;  
+background-color:#DB0A5B;
+
+
+  }
+
+
+        
